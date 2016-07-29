@@ -67,3 +67,12 @@
       ratings? Which tools would you use?
     - Let’s say that you wanted to reproduce your analysis on a regular
       basis—-say, once a week in perpetuity. How would you accomplish this?
+
+### Questions or bug fixes
+
+  If you have any questions during your completion of the challenge or find 
+  any bugs along the way, please create an issue for this repo and tag it 
+  appropriately. A member of the team will respond as soon as possible.
+
+
+Good Luck!
