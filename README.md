@@ -32,8 +32,8 @@
 
 ### Time limit
 
-  You have 48 or 72 hours to complete your analysis depending on whether you
-  choose to work on the weekend or weeknights, respectively. This short time
+  You have either 48 or 72 hours to complete your analysis depending on whether you
+  choose to use the weekend or weeknights, respectively. This short time
   period is not meant to intimidate; rather, it is meant to be a reflection of
   our expectations for the depth of analysis in this challenge. We're not
   expecting academic-level research--just enough to make us say, "Hmm, that's
@@ -42,7 +42,7 @@
 
 ### Delivering your results
 
-  Before the end of your 48 hours, please reply to this email with one of the
+  Before the end of your time limit, please reply to this email with one of the
   following:
   
     - (Preferred) A link to a GitHub repo containing all findings, presentation
