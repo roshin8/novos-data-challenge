@@ -2,10 +2,10 @@
 
 ### The Challenge
 
-  Show us something interesting using the provided dataset. You may use any
-  tool/programming language of your choice so long as that tool is available
-  for free (you may assume we have Microsoft Office). The use of additional,
-  external datasets is welcomed, but not required.
+  Show us something interesting using the provided dataset. You should leverage 
+  python, along with any other tools/programming languages of your choice so long 
+  they are available for free (you may assume we have Microsoft Office). The use 
+  of additional, external datasets is welcomed, but not required.
 
   Examples of interesting analyses include (but are not limited to):
   
@@ -17,6 +17,12 @@
   How you choose to convey your findings is completely up to you.
   Examples include: a Word document containing a written account of the
   analysis, a Power Point slide deck, a website, a Jupyter Notebook, etc.
+  
+  The purpose of this challenge is to demonstrate your:
+  
+    - Programming technique, focusing on data manipulation
+    - Ability to think through a problem from start to finish, and complete the work
+    - Ability to identify and present accurate findings in a clear, simple manner
 
 ### About the dataset
 
@@ -57,12 +63,12 @@
 
 ### Post-analysis questions
 
-  On your interview day, you will meet with a member of the Novum Pharma team
+  On your interview day, you will meet with a member of the Novos Growth team
   to discuss your analysis. Be prepared to answer the following questions
   during this time:
   
     - If given more time what else would you do?
-    - Why did you use the tools you used?
+    - Why and how did you use the tools you used?
     - How would your approach change if the data set contained 1 billion
       ratings? Which tools would you use?
     - Let’s say that you wanted to reproduce your analysis on a regular
