@@ -1,5 +1,7 @@
 # Novum Pharma Data Analysis Challenge
 
+## My Solution:
+https://github.com/roshin8/novos-data-challenge/blob/master/Novum-Pharma-Data-Analysis-Challenge.ipynb
 ### The Challenge
 
   Show us something interesting using the provided dataset. You should leverage 
